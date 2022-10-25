@@ -1,0 +1,223 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    background-color: #bd5d38;
+    width:17%;
+    height: 1000vh;
+    position: fixed;
+}
+
+.img{
+    width:65%;
+    height:auto;
+    border-radius:100%;
+    margin-left:5vh;
+    margin-top: 50%;
+    cursor: pointer;
+}
+
+.reb:hover{
+    box-shadow:0px 0px 50px #000000;
+    transition: 0.5s;
+}
+
+.d-block{
+    display: block;
+}
+
+.a{
+    text-decoration: none;
+    color:#e1b5a4;
+    padding-top:4%;
+    padding-right:8%;
+    font-size:3.5vh;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.white:hover{
+    color: white;
+    transition: .0.5s;
+}
+
+.About{
+    width:100%;
+    height:100vh;
+}
+
+.main{
+    width:83%;
+    height:100vh;
+    float:right;
+    display: flex;
+}
+
+.text{
+    font-size:8vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.b1{
+    color: #343a40;
+}
+
+.b2{
+    color:#bd5d38;
+}
+
+.margin-top{
+    margin-top:15%;
+}
+
+.color{
+    color: #6c7b88;
+}
+
+.margin-left{
+    margin-left:7vh;
+}
+
+.email:hover{
+    color: #7a3215;
+    transition: 0.5s;
+}
+
+.paddingtop{
+    padding-top:5vh;
+}
+
+.font-size{
+    font-size:3vh;
+}
+
+.icon{
+    font-size:8vh;
+    padding-top: 10%;
+    color: #495057;
+    cursor: pointer;
+}
+
+.black:hover{
+    color: black;
+    transition:0.5s;
+}
+
+.hr{
+    margin-top:30vh;
+    background-color: #dbdddf;
+}
+
+.main2{
+width:83%;
+height: 140vh;
+display:flex;
+float:right;
+}
+
+.Experience{
+    width:100%;
+    height:100vh;
+}
+
+.font-size2{
+    font-size:5vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.margin-top2{
+    margin-top:8vh;
+}
+
+.f-right{
+    float: right;
+}
+
+.margin-right{
+    margin-right:5vh;
+}
+
+.f-famly{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.f-famly2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.paddingtop2{
+    padding-top:1vh;
+}
+
+.hr2{
+    margin-top:15vh;
+    background-color:#dbdddf;
+}
+
+.main3{
+    width:83%;
+    height:100vh;
+    display:flex;
+    float:right;
+}
+
+.Education{
+    width:100%;
+    height: 100vh;
+}
+
+.text2{
+    font-size:7vh;
+}
+
+.main4{
+    width:83%;
+    height:100vh;
+    display:flex;
+    float:right;
+}
+.Skills{
+    width:100%;
+    height: 100vh;
+}
+
+.icon2{
+    font-size:8vh;
+    padding-top: 6%;
+    color: #495057;
+    cursor: pointer;
+}
+
+.margin-left2{
+    margin-left:10vh
+}
+
+.li-style{
+    list-style-type: circle;
+}
+
+.main5{
+    width:83%;
+    height:100vh;
+    display:flex;
+    float:right;
+}
+.Interests{
+    width:100%;
+    height: 100vh;
+}
+
+.main6{
+    width:83%;
+    height:100vh;
+    display:flex;
+    float:right;
+}
+.Awards{
+    width:100%;
+    height: 100vh;
+}
